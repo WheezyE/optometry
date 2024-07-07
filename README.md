@@ -14,10 +14,18 @@ Resources for students and optometrists
  - [Retinoscopy Simulator](https://www.optometrial.com/retinoscopy2/) _Free streak retinoscopy training simulator_
  - [Virtual Refractor](https://www.virtualrefractor.com/) _Free phoropter training simulator_
 ##### Optics
- - [Optics of the Human Eye](https://www.geogebra.org/m/SjGyuKNs) _Interactive fundamentals of phsyiological optics (object distance & accommodation VS emmetropia, myopia, hyperopia, & presbyopia)_
  - [Ray Optics Simulator](https://phydemo.app/ray-optics/) _Interactive fundamentals of concave ("minus") and convex ("plus") lenses in two-dimensions (ie "geometric optics")_
  - [3-D Wave Simulation](https://www.falstad.com/wavebox/) _Interactive fundamentals of three-dimensional waves (ie "light")_
- - [oPhysics: Interactive Physics Simulations - Polarization of Light](https://ophysics.com/l3.html) _Interactive fundamentals of polarizing filters_
+ - [Low order abberations](https://en.wikipedia.org/wiki/Aberrations_of_the_eye#Low_order_aberrations)
+   - [Optics of the Human Eye](https://www.geogebra.org/m/SjGyuKNs) _Interactive fundamentals of physiological optics (object distance & [accommodation](https://www.youtube.com/watch?v=1yIpyitm6eE) VS emmetropia, [myopia](https://www.optometrial.com/myopia/), [hyperopia](https://www.optometrial.com/hyperopia/), & presbyopia)_
+   - [Astigmatism simulation image](https://www.researchgate.net/figure/Simulation-of-retinal-images-top-PSF-bottom-convolution-with-letter-E-size-30-0_fig5_236614117) _Visual simulator of astigmatic image abberation
+   - [Astigmatism diagram image](https://www.eyedrnyc.com/wp-content/uploads/2016/04/astigmatism-comparison-1024x951.jpg) _Anatomy of astigmatism ([latin](https://www.etymonline.com/word/astigmatism): without a single focus)_
+   - [Toric lens image](https://en.wikipedia.org/wiki/Toric_lens#/media/File:Toric_lens_surface_2.png) _Toric lenses correct astigmatism_
+ - [High order abberations](https://www.aao.org/education/bcscsnippetdetail.aspx?id=94467a47-3b16-44a6-8ea7-adbe1f9b76a5)
+   - [Keratoconus](https://www.mayoclinic.org/diseases-conditions/keratoconus/symptoms-causes/syc-20351352)
+ - [Polarization of Light](https://ophysics.com/l3.html) _Interactive fundamentals of polarizing filters_
+##### Measurement of Visual Acuity
+ - [Spatial frequency](https://www.optometrial.com/spatial-frequency/) _A small letter E at 20 feet is used to determine resolution (of high spatial frequency between the letter and gaps between the letter) of a person's vision_
 ##### Anatomy
  - [Interactive Ophthalmic Figures for Medical Students](https://www.aao.org/interactive-figures)
  - [Anatomy of the eye: illustrations](https://www.imaios.com/en/e-anatomy/head-and-neck/eye)
